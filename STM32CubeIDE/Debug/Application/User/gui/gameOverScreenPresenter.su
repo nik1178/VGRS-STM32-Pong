@@ -1,0 +1,9 @@
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:18:18:virtual void ModelListener::redrawPong(int, int, int, int, int, int, int)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:19:18:virtual void ModelListener::redrawBounces(int)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:20:18:virtual void ModelListener::endPongGame()	0	static
+../../TouchGFX/gui/include/gui/gameoverscreen_screen/gameOverScreenPresenter.hpp:28:13:gameOverScreenPresenter::~gameOverScreenPresenter()	0	static
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/gameoverscreen_screen/gameOverScreenPresenter.cpp:10:6:virtual void gameOverScreenPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/gameoverscreen_screen/gameOverScreenPresenter.hpp:28:13:virtual gameOverScreenPresenter::~gameOverScreenPresenter()	8	static
+../../TouchGFX/gui/include/gui/gameoverscreen_screen/gameOverScreenPresenter.hpp:28:13:virtual void* gameOverScreenPresenter::_ZThn4_N23gameOverScreenPresenterD1Ev()	0	static
+../../TouchGFX/gui/include/gui/gameoverscreen_screen/gameOverScreenPresenter.hpp:28:13:virtual void* gameOverScreenPresenter::_ZThn4_N23gameOverScreenPresenterD0Ev()	8	static
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/gameoverscreen_screen/gameOverScreenPresenter.cpp:4:1:gameOverScreenPresenter::gameOverScreenPresenter(gameOverScreenView&)	4	static

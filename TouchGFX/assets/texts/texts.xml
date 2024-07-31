@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.24.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_MI4K" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Enter</Translation>
+      </Text>
+      <Text Id="__SingleUse_UF9Q" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">PONG!</Translation>
+      </Text>
+      <Text Id="__SingleUse_WZN2" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Return</Translation>
+      </Text>
+      <Text Id="__SingleUse_9VR1" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Game over</Translation>
+      </Text>
+      <Text Id="__SingleUse_QM8E" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">000</Translation>
+      </Text>
+      <Text Id="__SingleUse_DGFA" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Bounces: &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_LXIJ" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Hard</Translation>
+      </Text>
+      <Text Id="__SingleUse_7Y1W" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Normal</Translation>
+      </Text>
+      <Text Id="__SingleUse_3MOU" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">2 player</Translation>
+      </Text>
+      <Text Id="__SingleUse_FREN" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">1 player</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7e" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>

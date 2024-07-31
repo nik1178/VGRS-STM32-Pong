@@ -1,0 +1,8 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/gameoverscreen_screen/gameOverScreenView.cpp:13:6:virtual void gameOverScreenView::tearDownScreen()	0	static
+../../TouchGFX/gui/include/gui/gameoverscreen_screen/gameOverScreenView.hpp:11:13:gameOverScreenView::~gameOverScreenView()	8	static
+../../TouchGFX/gui/include/gui/gameoverscreen_screen/gameOverScreenView.hpp:11:13:virtual gameOverScreenView::~gameOverScreenView()	8	static
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/gameoverscreen_screen/gameOverScreenView.cpp:3:1:gameOverScreenView::gameOverScreenView()	8	static
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/gameoverscreen_screen/gameOverScreenView.cpp:8:6:virtual void gameOverScreenView::setupScreen()	0	static

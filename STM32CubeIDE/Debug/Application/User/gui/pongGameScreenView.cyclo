@@ -1,0 +1,12 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
+../../TouchGFX/generated/gui_generated/include/gui_generated/ponggamescreen_screen/pongGameScreenViewBase.hpp:27:18:virtual void pongGameScreenViewBase::pongScreenOpened()	1
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/ponggamescreen_screen/pongGameScreenView.cpp:17:6:virtual void pongGameScreenView::tearDownScreen()	1
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/ponggamescreen_screen/pongGameScreenView.cpp:22:6:virtual void pongGameScreenView::handleDragEvent(const touchgfx::DragEvent&)	1
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/ponggamescreen_screen/pongGameScreenView.cpp:29:6:virtual void pongGameScreenView::handleClickEvent(const touchgfx::ClickEvent&)	1
+../../TouchGFX/gui/include/gui/ponggamescreen_screen/pongGameScreenView.hpp:11:13:pongGameScreenView::~pongGameScreenView()	1
+../../TouchGFX/gui/include/gui/ponggamescreen_screen/pongGameScreenView.hpp:11:13:virtual pongGameScreenView::~pongGameScreenView()	1
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/ponggamescreen_screen/pongGameScreenView.cpp:3:1:pongGameScreenView::pongGameScreenView()	1
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/ponggamescreen_screen/pongGameScreenView.cpp:54:6:void pongGameScreenView::endPongGame()	1
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/ponggamescreen_screen/pongGameScreenView.cpp:9:6:virtual void pongGameScreenView::setupScreen()	2
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/ponggamescreen_screen/pongGameScreenView.cpp:49:6:void pongGameScreenView::redrawBounces(int)	1
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/ponggamescreen_screen/pongGameScreenView.cpp:36:6:void pongGameScreenView::redrawPong(int, int, int, int)	1

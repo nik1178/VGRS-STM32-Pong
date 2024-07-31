@@ -1,0 +1,11 @@
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:18:18:virtual void ModelListener::redrawPong(int, int, int, int, int, int, int)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:19:18:virtual void ModelListener::redrawBounces(int)	0	static
+../../TouchGFX/gui/include/gui/model/ModelListener.hpp:20:18:virtual void ModelListener::endPongGame()	0	static
+../../TouchGFX/gui/include/gui/difficultyselectionscreen_screen/difficultySelectionScreenPresenter.hpp:28:13:difficultySelectionScreenPresenter::~difficultySelectionScreenPresenter()	0	static
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/difficultyselectionscreen_screen/difficultySelectionScreenPresenter.cpp:10:6:virtual void difficultySelectionScreenPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/difficultyselectionscreen_screen/difficultySelectionScreenPresenter.hpp:28:13:virtual difficultySelectionScreenPresenter::~difficultySelectionScreenPresenter()	8	static
+../../TouchGFX/gui/include/gui/difficultyselectionscreen_screen/difficultySelectionScreenPresenter.hpp:28:13:virtual void* difficultySelectionScreenPresenter::_ZThn4_N34difficultySelectionScreenPresenterD1Ev()	0	static
+../../TouchGFX/gui/include/gui/difficultyselectionscreen_screen/difficultySelectionScreenPresenter.hpp:28:13:virtual void* difficultySelectionScreenPresenter::_ZThn4_N34difficultySelectionScreenPresenterD0Ev()	8	static
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/difficultyselectionscreen_screen/difficultySelectionScreenPresenter.cpp:4:1:difficultySelectionScreenPresenter::difficultySelectionScreenPresenter(difficultySelectionScreenView&)	4	static
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/difficultyselectionscreen_screen/difficultySelectionScreenPresenter.cpp:20:6:void difficultySelectionScreenPresenter::changeToNormalDifficulty()	0	static
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/difficultyselectionscreen_screen/difficultySelectionScreenPresenter.cpp:24:6:void difficultySelectionScreenPresenter::changeToHardDifficulty()	0	static

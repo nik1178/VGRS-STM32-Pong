@@ -1,0 +1,17 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:115:18:virtual void touchgfx::Screen::tearDownScreen()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	1
+../../TouchGFX/generated/gui_generated/include/gui_generated/pongplayerselectionscreen_screen/PongPlayerSelectionScreenViewBase.hpp:24:18:virtual void PongPlayerSelectionScreenViewBase::singleplayerButtonPressed()	1
+../../TouchGFX/generated/gui_generated/include/gui_generated/pongplayerselectionscreen_screen/PongPlayerSelectionScreenViewBase.hpp:28:18:virtual void PongPlayerSelectionScreenViewBase::multiplayerButtonPressed()	1
+C:/TouchGFXProjects/Pong/TouchGFX/generated/gui_generated/src/pongplayerselectionscreen_screen/PongPlayerSelectionScreenViewBase.cpp:39:1:PongPlayerSelectionScreenViewBase::~PongPlayerSelectionScreenViewBase()	1
+C:/TouchGFXProjects/Pong/TouchGFX/generated/gui_generated/src/pongplayerselectionscreen_screen/PongPlayerSelectionScreenViewBase.cpp:44:6:virtual void PongPlayerSelectionScreenViewBase::setupScreen()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:357:8:touchgfx::Callback<PongPlayerSelectionScreenViewBase, const touchgfx::AbstractButton&>::~Callback()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:386:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = PongPlayerSelectionScreenViewBase; T1 = const touchgfx::AbstractButton&]	2
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:396:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = PongPlayerSelectionScreenViewBase; T1 = const touchgfx::AbstractButton&]	3
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:357:8:virtual touchgfx::Callback<PongPlayerSelectionScreenViewBase, const touchgfx::AbstractButton&>::~Callback()	1
+C:/TouchGFXProjects/Pong/TouchGFX/generated/gui_generated/src/pongplayerselectionscreen_screen/PongPlayerSelectionScreenViewBase.cpp:39:1:virtual PongPlayerSelectionScreenViewBase::~PongPlayerSelectionScreenViewBase()	1
+C:/TouchGFXProjects/Pong/TouchGFX/generated/gui_generated/src/pongplayerselectionscreen_screen/PongPlayerSelectionScreenViewBase.cpp:49:6:void PongPlayerSelectionScreenViewBase::buttonCallbackHandler(const touchgfx::AbstractButton&)	5
+C:/TouchGFXProjects/Pong/TouchGFX/generated/gui_generated/src/pongplayerselectionscreen_screen/PongPlayerSelectionScreenViewBase.cpp:9:1:PongPlayerSelectionScreenViewBase::PongPlayerSelectionScreenViewBase()	1

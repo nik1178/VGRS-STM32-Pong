@@ -1,0 +1,13 @@
+C:/TouchGFXProjects/Pong/Core/Src/stm32h7xx_hal_msp.c:68:6:HAL_MspInit	1
+C:/TouchGFXProjects/Pong/Core/Src/stm32h7xx_hal_msp.c:92:6:HAL_CRC_MspInit	2
+C:/TouchGFXProjects/Pong/Core/Src/stm32h7xx_hal_msp.c:115:6:HAL_CRC_MspDeInit	2
+C:/TouchGFXProjects/Pong/Core/Src/stm32h7xx_hal_msp.c:137:6:HAL_DMA2D_MspInit	2
+C:/TouchGFXProjects/Pong/Core/Src/stm32h7xx_hal_msp.c:163:6:HAL_DMA2D_MspDeInit	2
+C:/TouchGFXProjects/Pong/Core/Src/stm32h7xx_hal_msp.c:188:6:HAL_JPEG_MspInit	6
+C:/TouchGFXProjects/Pong/Core/Src/stm32h7xx_hal_msp.c:273:6:HAL_JPEG_MspDeInit	2
+C:/TouchGFXProjects/Pong/Core/Src/stm32h7xx_hal_msp.c:302:6:HAL_LTDC_MspInit	3
+C:/TouchGFXProjects/Pong/Core/Src/stm32h7xx_hal_msp.c:415:6:HAL_LTDC_MspDeInit	2
+C:/TouchGFXProjects/Pong/Core/Src/stm32h7xx_hal_msp.c:483:6:HAL_QSPI_MspInit	3
+C:/TouchGFXProjects/Pong/Core/Src/stm32h7xx_hal_msp.c:577:6:HAL_QSPI_MspDeInit	2
+C:/TouchGFXProjects/Pong/Core/Src/stm32h7xx_hal_msp.c:725:6:HAL_SDRAM_MspInit	3
+C:/TouchGFXProjects/Pong/Core/Src/stm32h7xx_hal_msp.c:809:6:HAL_SDRAM_MspDeInit	2

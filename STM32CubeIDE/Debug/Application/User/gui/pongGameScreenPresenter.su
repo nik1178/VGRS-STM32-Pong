@@ -1,0 +1,16 @@
+../../TouchGFX/gui/include/gui/ponggamescreen_screen/pongGameScreenPresenter.hpp:28:13:pongGameScreenPresenter::~pongGameScreenPresenter()	0	static
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/ponggamescreen_screen/pongGameScreenPresenter.cpp:10:6:virtual void pongGameScreenPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/ponggamescreen_screen/pongGameScreenPresenter.hpp:28:13:virtual pongGameScreenPresenter::~pongGameScreenPresenter()	8	static
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/ponggamescreen_screen/pongGameScreenPresenter.cpp:41:6:virtual void pongGameScreenPresenter::redrawPong(int, int, int, int, int, int, int)	12	static
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/ponggamescreen_screen/pongGameScreenPresenter.cpp:45:6:virtual void pongGameScreenPresenter::redrawBounces(int)	0	static
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/ponggamescreen_screen/pongGameScreenPresenter.cpp:49:6:virtual void pongGameScreenPresenter::endPongGame()	0	static
+../../TouchGFX/gui/include/gui/ponggamescreen_screen/pongGameScreenPresenter.hpp:28:13:virtual void* pongGameScreenPresenter::_ZThn4_N23pongGameScreenPresenterD1Ev()	0	static
+../../TouchGFX/gui/include/gui/ponggamescreen_screen/pongGameScreenPresenter.hpp:28:13:virtual void* pongGameScreenPresenter::_ZThn4_N23pongGameScreenPresenterD0Ev()	8	static
+../../TouchGFX/gui/include/gui/ponggamescreen_screen/pongGameScreenPresenter.hpp:37:10:virtual void pongGameScreenPresenter::_ZThn4_N23pongGameScreenPresenter11endPongGameEv()	0	static
+../../TouchGFX/gui/include/gui/ponggamescreen_screen/pongGameScreenPresenter.hpp:36:10:virtual void pongGameScreenPresenter::_ZThn4_N23pongGameScreenPresenter13redrawBouncesEi(int)	0	static
+../../TouchGFX/gui/include/gui/ponggamescreen_screen/pongGameScreenPresenter.hpp:35:10:virtual void pongGameScreenPresenter::_ZThn4_N23pongGameScreenPresenter10redrawPongEiiiiiii(int, int, int, int, int, int, int)	12	static
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/ponggamescreen_screen/pongGameScreenPresenter.cpp:4:1:pongGameScreenPresenter::pongGameScreenPresenter(pongGameScreenView&)	4	static
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/ponggamescreen_screen/pongGameScreenPresenter.cpp:20:6:void pongGameScreenPresenter::pongSetup(int, int, int, int, int)	0	static
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/ponggamescreen_screen/pongGameScreenPresenter.cpp:24:6:void pongGameScreenPresenter::pongStart()	0	static
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/ponggamescreen_screen/pongGameScreenPresenter.cpp:28:6:void pongGameScreenPresenter::receiveDragEvent(const touchgfx::DragEvent&)	0	static
+C:/TouchGFXProjects/Pong/TouchGFX/gui/src/ponggamescreen_screen/pongGameScreenPresenter.cpp:34:6:void pongGameScreenPresenter::receiveClickEvent(const touchgfx::ClickEvent&)	0	static
